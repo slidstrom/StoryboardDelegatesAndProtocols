@@ -1,0 +1,26 @@
+[{
+        "name": "IT",
+        "employees": [{
+                "firstName": "Spencer",
+                "lastName": "Lidstrom"
+            },
+            {
+                "firstName": "Chris",
+                "lastName": "Cheng"
+            }
+        ]
+    },
+    {
+        "name": "Sales",
+        "employees": [{
+                "firstName": "Don",
+                "lastName": "Cheadle"
+            },
+            {
+                "firstName": "Bob",
+                "secondName": "The Builder"
+            }
+        ]
+    }
+
+]
